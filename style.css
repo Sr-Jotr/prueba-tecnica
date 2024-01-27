@@ -1,0 +1,99 @@
+/*
+Theme Name: Mi Tema
+Theme URI: https://wow.dyakmy.com/
+Description: Tema creado como parte de la prueba técnica para la empresa Verctorial. Demuestra habilidades en maquetación HTML, CSS, Bootstrap y PHP. ¡Desafío aceptado!
+Author: Jose Sarmiento
+Version: 1.0.1
+Tags: Prueba Técnica, Vectorial
+*/
+
+/* BARRA DE NAVEGACIÓN */
+body::-webkit-scrollbar {
+    width: 2px;
+}
+body::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.5);
+}
+body::-webkit-scrollbar-thumb {
+    background-color: #000;
+    border: 0px;
+}
+/* FIN BARRA DE NAVEGACIÓN */
+
+
+/* NAV - header.php */
+.my-nav{
+    background-color: #000000cb;
+    height: 70px;
+}
+.my-other-nav{
+    background-color: #000000;
+}
+.nav-item{
+    font-size: .8em;
+}
+.el-menu-principal a{
+    text-decoration: none;
+    color: white;
+    font-size: .75em;
+    padding: 28px 20px 25px 20px;
+}
+.el-menu-principal a:hover{
+    background: #16168E;
+}
+.solicitar-info{
+    border: none;
+    background: #2390F8;
+    padding: 25px 28px;
+    color: white;
+    font-size: .8em;
+    text-decoration: none;
+    font-weight: 500;
+}
+.solicitar-info>i{
+    color: #16168E;
+    font-size: 1.2em;
+    padding-right: 6px;
+    animation: bounceAnimation .5s infinite alternate;
+}
+@keyframes bounceAnimation {
+    to {
+      transform: translateY(-4px);
+    }
+  }
+
+/* FIN NAV - header.php */
+
+
+/* FOOTER - footer.php */
+.my-footer{
+    border: 1px solid #ffffff30;
+    border-radius: 6px;
+    padding: 8px 0;
+}
+.foo-seccion-2{
+    border-right: 1px solid #ffffff30;
+}
+.foo-seccion-3>p{
+    font-size: 12px;
+}
+
+.iconos-redes-f, .iconos-redes-i, .iconos-redes-t, .iconos-redes-y{
+    background: #3D3DA1;    
+    border-radius: 100px;
+    color: #fff;
+    font-size: 14px;
+}
+.iconos-redes-t{
+    padding: 14px;
+}
+.iconos-redes-y{
+    padding: 14px 13px;
+}
+.iconos-redes-f{
+    padding: 14px 17px;
+}
+.iconos-redes-i{
+    padding: 14px 15px;
+}
+/* FIN FOOTER - footer.php */

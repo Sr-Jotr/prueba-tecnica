@@ -1,0 +1,7 @@
+Estimado equipo de evaluación,
+
+Quisiera agradecerles por la oportunidad de realizar la prueba técnica. He dedicado mi tiempo a crear un tema básico en WordPress y he incorporado una plantilla en una página denominada "posgrados". Mi enfoque ha sido establecer la estructura principal del sitio y asegurarme de que la plantilla sea funcional en términos de maquetación HTML, uso de CSS y su integración con WordPress.
+
+Sin embargo, debido a limitaciones de tiempo, no pude completar la versión responsive del sitio ni la última sección. Reconozco la importancia de estas tareas y lamento no haber podido abordarlas en esta ocasión. Estoy dispuesto a recibir comentarios y sugerencias para mejorar y aprender de esta experiencia.
+
+Agradezco su comprensión y espero que encuentren valiosos todos los elementos implementados en la prueba.
