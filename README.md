@@ -17,3 +17,10 @@ Este tema personalizado para WordPress se centra en la creación de una landing 
 - **css/my-custom.css:** Estilos principales de la landing page.
 
 - **custom-templates/my-landing-page.php:** Plantilla principal que se utiliza para crear la landing page. Creada para luego ser cargada en una página específica de WordPress (Página "Posgrados" en esta prueba).
+
+- ## Instalación
+
+1. Descarga el archivo comprimido y extráelo en la carpeta wp-content > themes de tu instalación de WordPress.
+2. Crea una nueva página en WordPress.
+3. En la configuración de la página, selecciona la opción "Plantilla" y elige la plantilla llamada "Mi Landing Page - Vectorial".
+4. Publica la página.
